@@ -38,5 +38,9 @@
   "BatteryShop": {
     "dataSource": "pgdb",
     "public": true
+  },
+  "Employee": {
+    "dataSource": "pgdb",
+    "public": true
   }
 }
