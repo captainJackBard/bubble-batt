@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "pgdb": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "bubblebatt",
+    "password": "djpogi",
+    "name": "pgdb",
+    "user": "djpogi",
+    "connector": "postgresql"
+  }
+}
